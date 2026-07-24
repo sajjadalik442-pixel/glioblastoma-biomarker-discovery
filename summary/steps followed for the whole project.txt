@@ -1,0 +1,34 @@
+downloaded and formatted TCGA data zarlish sent me on email
+	>> formatted by combining both healthy and gbm sheets
+................
+
+i have downloaded data from the following links suggested by Bioinformatician
+	
+	>>https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE243682
+
+dataset - all diseased
+	>> https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232469
+
+dataset - controled and diseased
+	>> https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE243682
+
+dataset - 5 controlled and some diseased
+	>> https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE207821
+
+
+
+	the dataset has some control some healthy samples
+	converted genes ids to names
+	and combine the data set with the above tcga one and finalized the dataset for ml analysis
+	the final data is verified by the bioinformatician and validated for ML analysis
+..................
+our goal was to find the impactful biomarkers that can be used to train a model. the model results will be further analyzed to observe the credibility of the model
+for detection of glioblastoma in realtime test screening through transcriptomic data.
+.................
+
+data is combined a processed into finalized data:
+searching_datasets/data found/processed2/finalized_data.csv
+
+................ 
+results
+
