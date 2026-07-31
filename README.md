@@ -196,4 +196,4 @@ The model correctly classified 8 out of 9 in-house validation samples, with stro
 
 ## 📜 License
 
-Specify your preferred license here (e.g., MIT, Apache 2.0) before publishing the repository.
+Apache 2.0
